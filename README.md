@@ -18,9 +18,9 @@ I'm a Computer Science graduate passionate about building scalable web applicati
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-339933?style=for-the-badge&logo=python&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-339933?style=for-the-badge&logo=Postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-339933?style=for-the-badge&logo=Docker&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-339933?style=for-the-badge&logo=Supabase&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
