@@ -16,10 +16,7 @@ I'm a Computer Science graduate passionate about building scalable web applicati
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chinmay42010&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay42010&layout=compact&theme=tokyonight" height="180"/>
-</p>
+https://streak-stats.demolab.com?user=Chinmay42010&theme=tokyonight
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Chinmay42010&theme=tokyonight" />
