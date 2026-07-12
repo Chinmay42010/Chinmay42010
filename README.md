@@ -24,10 +24,11 @@ I'm a Computer Science graduate passionate about building scalable web applicati
 
 ---
 
-## GitHub Stats
+<h2 align="center">GitHub Streak</h2>
 
-https://streak-stats.demolab.com?user=Chinmay42010&theme=tokyonight
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Chinmay42010&theme=tokyonight" alt="GitHub Streak" />
+</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Chinmay42010&theme=tokyonight" />
 </p>
