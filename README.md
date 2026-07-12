@@ -36,8 +36,8 @@ https://streak-stats.demolab.com?user=Chinmay42010&theme=tokyonight
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/chinmay-betageri/
-- Email: **your-email@example.com**
+- LinkedIn: [https://www.linkedin.com/in/chinmay-betageri/](https://www.linkedin.com/in/chinmay-betageri-60a4b924b/)
+- Email: **kbchinmay004@gmail.com**
 
 ---
 
