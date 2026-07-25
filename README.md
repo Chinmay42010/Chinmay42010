@@ -1,4 +1,4 @@
-![Hi, I'm Chinmay Betageri](https://chinmaybetageri.vercel.app)
+# Hi, I am Chinmay
 
 ### Aspiring Full-Stack Developer | MERN Stack | DSA Enthusiast
 
