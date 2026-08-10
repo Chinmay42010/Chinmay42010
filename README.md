@@ -1,6 +1,6 @@
 # Hi, I am Chinmay
 
-### Aspiring Full-Stack Developer | MERN Stack | DSA Enthusiast
+### Full-Stack Developer | Node.js | React.js | Express.js
 
 I'm a Computer Science graduate passionate about building scalable web applications and solving problems through Data Structures & Algorithms. Currently learning and building projects with the MERN stack while continuously improving my backend development skills.
 
