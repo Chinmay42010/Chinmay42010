@@ -2,7 +2,11 @@
 
 ### Full-Stack Developer | Node.js | React.js | Express.js
 
-I'm a Computer Science graduate passionate about building scalable web applications and solving problems through Data Structures & Algorithms. Currently learning and building projects with the MERN stack while continuously improving my backend development skills.
+I'm a Full Stack Developer and technology enthusiast based in India.
+
+I build modern websites and AI-powered applications, with a focus on turning ideas into practical and engaging digital products.
+
+My development experience spans frontend and backend technologies, cloud platforms, databases, and modern application frameworks. I'm continuously learning and exploring new technologies in software development, artificial intelligence, and cloud computing.
 
 ---
 
