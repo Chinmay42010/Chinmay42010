@@ -2,11 +2,11 @@
 
 ### Full-Stack Developer | Node.js | React.js | Express.js
 
-I'm a Full Stack Developer and technology enthusiast based in India.
+CSE (AI & ML) graduate with hands-on experience building projects across the full stack using React, Node.js, Express, MongoDB, and, more recently, PostgreSQL and Drizzle ORM for relational schema design and database management.
 
-I build modern websites and AI-powered applications, with a focus on turning ideas into practical and engaging digital products.
+Looking to join a team as a full-stack developer where I can learn from more experienced engineers, strengthen my understanding of building scalable and maintainable software, and contribute to real, production-facing work.
 
-My development experience spans frontend and backend technologies, cloud platforms, databases, and modern application frameworks. I'm continuously learning and exploring new technologies in software development, artificial intelligence, and cloud computing.
+I’m particularly interested in opportunities where I can take ownership of features, work with modern development practices, and continue growing through hands-on experience.
 
 ---
 
