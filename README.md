@@ -83,6 +83,7 @@ My goal is to build maintainable applications, understand the engineering decisi
 - System Design Fundamentals
 - Database Design & Optimization
 - Containerization with Docker
+- Rust for fun
 
 ---
 
